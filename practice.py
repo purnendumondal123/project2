@@ -1,0 +1,2 @@
+a = 'purnendu'
+print(a)
